@@ -1,0 +1,14 @@
+# Virtual Environmant
+.venv/
+
+# IDE
+.idea/
+
+# data
+data/
+
+# Pretrained Model
+model/*.caffemodel
+
+# Snapshots
+snapshots/
