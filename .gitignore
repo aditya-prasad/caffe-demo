@@ -12,3 +12,6 @@ model/*.caffemodel
 
 # Snapshots
 snapshots/
+
+# OS Specific files
+.DS_Store
